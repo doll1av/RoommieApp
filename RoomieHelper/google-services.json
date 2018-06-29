@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "956059814534",
+    "firebase_url": "https://roomatehelper.firebaseio.com",
+    "project_id": "roomatehelper",
+    "storage_bucket": "roomatehelper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956059814534:android:4e340683ca974fd3",
+        "android_client_info": {
+          "package_name": "com.doll1av.finalproject.myroomiehelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956059814534-bertmg3t6g8kn6o5tfnknja9t09ci9eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58GYCxfRQWZa0d97w6zLlDgxrbn1mthE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RoomieHelper</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="new_task">New</string>
+    <string name="claim">Claim</string>
+    <string-array name="Menu_items">
+        <item>My Tasks</item>
+        <item>Unclaimed</item>
+        <item>Create Task</item>
+
+
+    </string-array>
+</resources>
